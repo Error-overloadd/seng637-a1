@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: Group 16      |
 |-----------------|
 | Student 1 name   :   Derek Liu          |   
 | Student 2 name   : John zhou           |   
