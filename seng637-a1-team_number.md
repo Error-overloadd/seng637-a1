@@ -5,9 +5,9 @@
 | Group: Group Number      |
 |-----------------|
 | Student 1 name   :   Derek Liu          |   
-| Student 2 name              |   
+| Student 2 name   : John zhou           |   
 | Student 3 name :   Milly Vital Dzukou Tasse           |   
-| Student 4 name                |   
+| Student 4 name   :     Toshi Biswas         |   
 
 
 **Table of Contents**
